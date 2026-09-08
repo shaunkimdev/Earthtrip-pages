@@ -22,13 +22,13 @@
       "broadcaster": "RIVERWORKER",
       "source": "https://www.youtube.com/watch?v=vk5BHoDxXf0",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC4ueDZiC-xHAwql4QxVNQZg",
       "lastCheckedAt": "2026-09-08T22:12:49.134Z",
       "matchTerms": [
         "한강"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.251Z"
+      "lastAttemptAt": "2026-09-08T22:23:48.992Z"
     },
     {
       "id": "busan-haeundae",
@@ -52,13 +52,13 @@
       "broadcaster": "Busan Haeundae Live [부산 해운대 라이브]",
       "source": "https://www.youtube.com/watch?v=LGuktGeHQxI",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCZsIhpfgnO7nNrDWu7dj89g",
       "lastCheckedAt": "2026-09-08T22:12:49.271Z",
       "matchTerms": [
         "haeundae"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.310Z"
+      "lastAttemptAt": "2026-09-08T22:23:49.150Z"
     },
     {
       "id": "busan-songjeong",
@@ -82,13 +82,13 @@
       "broadcaster": "올라호텔ᅵ송정 해수욕장",
       "source": "https://www.youtube.com/watch?v=NBZdNZYF1gI",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCS5xp6vv3fbSdx9zhxkz4HA",
       "lastCheckedAt": "2026-09-08T22:12:49.150Z",
       "matchTerms": [
         "송정"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.312Z"
+      "lastAttemptAt": "2026-09-08T22:23:49.152Z"
     },
     {
       "id": "jeju-beaches",
@@ -112,13 +112,13 @@
       "broadcaster": "젬비씨 JEMBC",
       "source": "https://www.youtube.com/watch?v=fyKCcu6bx-I",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCa1GGhoiscegwa0YwmV2VLA",
       "lastCheckedAt": "2026-09-08T22:12:49.082Z",
       "matchTerms": [
         "제주"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.312Z"
+      "lastAttemptAt": "2026-09-08T22:23:49.154Z"
     },
     {
       "id": "bali-jimbaran",
@@ -148,7 +148,7 @@
       "matchTerms": [
         "jimbaran"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.313Z"
+      "lastAttemptAt": "2026-09-08T22:23:49.155Z"
     },
     {
       "id": "hawaii-waikiki",
@@ -172,13 +172,13 @@
       "broadcaster": "Waikiki Aquarium",
       "source": "https://www.youtube.com/watch?v=WIUg8wzhq1g",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJW_nwNBvudCacX7c5hR6aA",
       "lastCheckedAt": "2026-09-08T22:12:49.268Z",
       "matchTerms": [
         "waikiki"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:48.314Z"
+      "lastAttemptAt": "2026-09-08T22:23:49.156Z"
     },
     {
       "id": "hawaii-pipeline",
@@ -202,13 +202,13 @@
       "broadcaster": "Explore Big Surf, Beaches and Sunsets",
       "source": "https://www.youtube.com/watch?v=Fp7l8XASb9Y",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJRuk-FJ6dzX0MOpnd0UDCg",
       "lastCheckedAt": "2026-09-08T22:12:49.919Z",
       "matchTerms": [
         "pipeline"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.272Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.433Z"
     },
     {
       "id": "samui-crystal-bay",
@@ -232,14 +232,14 @@
       "broadcaster": "The Real Samui Webcam",
       "source": "https://www.youtube.com/watch?v=Fw9hgttWzIg",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCmYyJaUxYiF5IbLx-0jFXHQ",
       "lastCheckedAt": "2026-09-08T22:12:50.092Z",
       "matchTerms": [
         "crystal",
         "bay"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.272Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.434Z"
     },
     {
       "id": "venice-san-marco",
@@ -263,14 +263,14 @@
       "broadcaster": "I Love You Venice",
       "source": "https://www.youtube.com/watch?v=ASqGNET31VY",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCMpn1qLudF-zb4M4bqxLIbw",
       "lastCheckedAt": "2026-09-08T22:12:50.119Z",
       "matchTerms": [
         "san",
         "marco"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.273Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.434Z"
     },
     {
       "id": "sydney-harbour",
@@ -294,14 +294,14 @@
       "broadcaster": "WebcamSydney",
       "source": "https://www.youtube.com/watch?v=5uZa3-RMFos",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCLav_kTu9PmAEChvGyrPbhQ",
       "lastCheckedAt": "2026-09-08T22:12:49.887Z",
       "matchTerms": [
         "sydney",
         "harbour"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.273Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.435Z"
     },
     {
       "id": "cape-town-muizenberg",
@@ -325,13 +325,13 @@
       "broadcaster": "REEF SOUTH AFRICA",
       "source": "https://www.youtube.com/watch?v=lht-x2Su0CA",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCef_Yfk6baScsTCcDxzXE5Q",
       "lastCheckedAt": "2026-09-08T22:12:49.908Z",
       "matchTerms": [
         "muizenberg"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.274Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.435Z"
     },
     {
       "id": "rio-copacabana",
@@ -355,13 +355,13 @@
       "broadcaster": "Homes in Rio",
       "source": "https://www.youtube.com/watch?v=IhGNK_hImLs",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UChWGYkK0I8U83C0FxAxWy4w",
       "lastCheckedAt": "2026-09-08T22:12:49.989Z",
       "matchTerms": [
         "copacabana"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:49.274Z"
+      "lastAttemptAt": "2026-09-08T22:23:50.435Z"
     },
     {
       "id": "lucerne",
@@ -385,13 +385,13 @@
       "broadcaster": "Tele1 - Zentralschweizer Fernsehen",
       "source": "https://www.youtube.com/watch?v=QIt1FaDMnQc",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCPXrtNyzerjndFhzPyJD7vA",
       "lastCheckedAt": "2026-09-08T22:12:50.785Z",
       "matchTerms": [
         "lucerne"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:50.120Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.390Z"
     },
     {
       "id": "kamakura-shichirigahama",
@@ -415,13 +415,13 @@
       "broadcaster": "湘南ライブカメラ",
       "source": "https://www.youtube.com/watch?v=PFqSE8GNfnE",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC_9dgNP8GvfhUURELouR3Dg",
       "lastCheckedAt": "2026-09-08T22:12:50.871Z",
       "matchTerms": [
         "七里ヶ浜"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:50.120Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.390Z"
     },
     {
       "id": "banff-spray-valley",
@@ -445,14 +445,14 @@
       "broadcaster": "Banff Centre for Arts and Creativity",
       "source": "https://www.youtube.com/watch?v=HghxOQ12dy4",
       "verifiedAt": "2026-09-08",
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCFJFUjH4EwdmH7OVfzcy22g",
       "lastCheckedAt": "2026-09-08T22:12:50.721Z",
       "matchTerms": [
         "spray",
         "valley"
       ],
-      "lastAttemptAt": "2026-09-08T22:12:50.121Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.391Z"
     },
     {
       "id": "dublin-temple-bar",
@@ -477,12 +477,12 @@
       "matchTerms": [
         "dublin"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC6qrG3W8SMK0jior2olka3g",
       "broadcaster": "EarthCam",
       "lastCheckedAt": "2026-09-08T22:12:50.862Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.121Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.391Z"
     },
     {
       "id": "london-abbey-road",
@@ -508,12 +508,12 @@
         "abbey",
         "road"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC6qrG3W8SMK0jior2olka3g",
       "broadcaster": "EarthCam",
       "lastCheckedAt": "2026-09-08T22:12:50.819Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.121Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.391Z"
     },
     {
       "id": "venice-guglie",
@@ -538,12 +538,12 @@
       "matchTerms": [
         "guglie"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCMpn1qLudF-zb4M4bqxLIbw",
       "broadcaster": "I Love You Venice",
       "lastCheckedAt": "2026-09-08T22:12:50.727Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.121Z"
+      "lastAttemptAt": "2026-09-08T22:23:51.391Z"
     },
     {
       "id": "venice-dorsoduro",
@@ -568,12 +568,12 @@
       "matchTerms": [
         "dorsoduro"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCMpn1qLudF-zb4M4bqxLIbw",
       "broadcaster": "I Love You Venice",
       "lastCheckedAt": "2026-09-08T22:12:51.492Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.872Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.564Z"
     },
     {
       "id": "amsterdam-dam",
@@ -599,12 +599,12 @@
         "amsterdam",
         "dam"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCWsoep0hJKhGbYosMeQIyXA",
       "broadcaster": "Now4Rent",
       "lastCheckedAt": "2026-09-08T22:12:51.477Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.873Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.565Z"
     },
     {
       "id": "rovaniemi-santa",
@@ -630,12 +630,12 @@
         "santa",
         "claus"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuarPSgSklrmX2z0iA-Ua4Q",
       "broadcaster": "City of Rovaniemi",
       "lastCheckedAt": "2026-09-08T22:12:51.485Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.873Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.565Z"
     },
     {
       "id": "taipei-xiangshan",
@@ -660,12 +660,12 @@
       "matchTerms": [
         "xiangshan"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJLjpq7pTJRbP3vtx0LxB9Q",
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:51.544Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.873Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.565Z"
     },
     {
       "id": "taipei-bishan",
@@ -690,12 +690,12 @@
       "matchTerms": [
         "bishan"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJLjpq7pTJRbP3vtx0LxB9Q",
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:51.464Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.873Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.565Z"
     },
     {
       "id": "taoyuan-daxi",
@@ -720,12 +720,12 @@
       "matchTerms": [
         "daxi"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCARB8y6PuoOBjZXJKIG-LDw",
       "broadcaster": "遊桃園 Taoyuan Travel",
       "lastCheckedAt": "2026-09-08T22:12:51.671Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:50.873Z"
+      "lastAttemptAt": "2026-09-08T22:23:52.565Z"
     },
     {
       "id": "taipei-jiantanshan",
@@ -750,12 +750,12 @@
       "matchTerms": [
         "jiantanshan"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJLjpq7pTJRbP3vtx0LxB9Q",
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:52.369Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.672Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.906Z"
     },
     {
       "id": "tokyo-kabukicho",
@@ -780,12 +780,12 @@
       "matchTerms": [
         "kabukicho"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCCLnJzwda_Kcdkok3et7n0A",
       "broadcaster": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
       "lastCheckedAt": "2026-09-08T22:12:52.202Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.672Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.906Z"
     },
     {
       "id": "leavenworth",
@@ -810,12 +810,12 @@
       "matchTerms": [
         "leavenworth"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCza48nR27_AEYbIbwMCOoFQ",
       "broadcaster": "Visit Leavenworth",
       "lastCheckedAt": "2026-09-08T22:12:52.377Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.673Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.906Z"
     },
     {
       "id": "namib-waterhole",
@@ -841,12 +841,12 @@
         "namib",
         "desert"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC9X6gGKDv2yhMoofoeS7-Gg",
       "broadcaster": "NamibiaCam",
       "lastCheckedAt": "2026-09-08T22:12:52.321Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.673Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.907Z"
     },
     {
       "id": "etosha-okaukuejo",
@@ -871,12 +871,12 @@
       "matchTerms": [
         "okaukuejo"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCfn4vrrgKXCCg3rxxLRGOvg",
       "broadcaster": "Namibia Wildlife Resorts",
       "lastCheckedAt": "2026-09-08T22:12:52.423Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.673Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.907Z"
     },
     {
       "id": "kenya-ol-donyo",
@@ -901,12 +901,12 @@
       "matchTerms": [
         "donyo"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:52.406Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:51.673Z"
+      "lastAttemptAt": "2026-09-08T22:23:53.907Z"
     },
     {
       "id": "namibia-safarihoek",
@@ -931,12 +931,12 @@
       "matchTerms": [
         "safarihoek"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.118Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.424Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.904Z"
     },
     {
       "id": "zimbabwe-linkwasha",
@@ -961,12 +961,12 @@
       "matchTerms": [
         "linkwasha"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.154Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.424Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.905Z"
     },
     {
       "id": "botswana-camelthorn",
@@ -991,12 +991,12 @@
       "matchTerms": [
         "camelthorn"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.049Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.424Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.905Z"
     },
     {
       "id": "namibia-onguma",
@@ -1021,12 +1021,12 @@
       "matchTerms": [
         "onguma"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:52.963Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.424Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.905Z"
     },
     {
       "id": "kenya-mpala",
@@ -1051,12 +1051,12 @@
       "matchTerms": [
         "mpala"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCMfjW-9aZnsR-Rq-Ngo4CpQ",
       "broadcaster": "Explore African Wildlife",
       "lastCheckedAt": "2026-09-08T22:12:52.972Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.425Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.905Z"
     },
     {
       "id": "victoria-falls-waterhole",
@@ -1082,12 +1082,12 @@
         "victoria",
         "falls"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.062Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:52.425Z"
+      "lastAttemptAt": "2026-09-08T22:23:54.905Z"
     },
     {
       "id": "tembe-elephants",
@@ -1112,12 +1112,12 @@
       "matchTerms": [
         "tembe"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.772Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.154Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "madikwe-tau",
@@ -1142,12 +1142,12 @@
       "matchTerms": [
         "tau"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.819Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.154Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "katmai-brooks-falls",
@@ -1173,12 +1173,12 @@
         "brooks",
         "falls"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC-2KSeUU5SMCX6XLRD-AEvw",
       "broadcaster": "Explore Live Nature Cams",
       "lastCheckedAt": "2026-09-08T22:12:53.705Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.155Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "amboseli-tortilis",
@@ -1203,12 +1203,12 @@
       "matchTerms": [
         "tortilis"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuoNAKa3P0QR1Lw9QdpmoVg",
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.753Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.155Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "big-bear-eagles",
@@ -1234,12 +1234,12 @@
         "big",
         "bear"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCsFgbVuhRrPV5FqyN7kOD8g",
       "broadcaster": "FOBBV CAM",
       "lastCheckedAt": "2026-09-08T22:12:53.960Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.155Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "long-beach-tropical-reef",
@@ -1265,12 +1265,12 @@
         "tropical",
         "reef"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC-2KSeUU5SMCX6XLRD-AEvw",
       "broadcaster": "Explore Live Nature Cams",
       "lastCheckedAt": "2026-09-08T22:12:53.816Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.155Z"
+      "lastAttemptAt": "2026-09-08T22:23:55.897Z"
     },
     {
       "id": "monterey-sharks",
@@ -1295,12 +1295,12 @@
       "matchTerms": [
         "shark"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.650Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.858Z"
     },
     {
       "id": "monterey-kelp",
@@ -1326,12 +1326,12 @@
         "kelp",
         "forest"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.719Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.858Z"
     },
     {
       "id": "monterey-open-sea",
@@ -1357,12 +1357,12 @@
         "open",
         "sea"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.602Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.858Z"
     },
     {
       "id": "monterey-jellyfish",
@@ -1387,12 +1387,12 @@
       "matchTerms": [
         "jelly"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCnM5iMGiKsZg-iOlIO2ZkdQ",
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.620Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.859Z"
     },
     {
       "id": "miami-coral-city",
@@ -1418,12 +1418,12 @@
         "coral",
         "city"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCtllXAWa3EcfcsL5tvpqGSw",
       "broadcaster": "Coral Morphologic",
       "lastCheckedAt": "2026-09-08T22:12:54.641Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.859Z"
     },
     {
       "id": "curacao-underwater",
@@ -1448,12 +1448,12 @@
       "matchTerms": [
         "underwater"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCRjMuOBDCfSsCNIe2p0_tdg",
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:54.593Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:53.961Z"
+      "lastAttemptAt": "2026-09-08T22:23:56.859Z"
     },
     {
       "id": "vancouver-otters",
@@ -1479,12 +1479,12 @@
         "sea",
         "otter"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCbzl-qtfTKY9QNgtnqmuyBw",
       "broadcaster": "Vancouver Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:55.405Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.719Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "honduras-utopia-reef",
@@ -1510,12 +1510,12 @@
         "top",
         "wall"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCSyg9cb3Iq-NtlbxqNB9wGw",
       "broadcaster": "Explore Oceans",
       "lastCheckedAt": "2026-09-08T22:12:55.474Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.720Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "flagstaff-rail",
@@ -1540,12 +1540,12 @@
       "matchTerms": [
         "flagstaff"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.524Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.720Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "laplata-rail",
@@ -1571,12 +1571,12 @@
         "plata",
         "east"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.472Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.720Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "prague-rail",
@@ -1602,12 +1602,12 @@
         "prague",
         "station"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC3ewP9SczRIGGpDXDQvpPyQ",
       "broadcaster": "SlowTV",
       "lastCheckedAt": "2026-09-08T22:12:55.515Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.720Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "revelstoke-rail",
@@ -1632,12 +1632,12 @@
       "matchTerms": [
         "revelstoke"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.527Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:54.721Z"
+      "lastAttemptAt": "2026-09-08T22:23:57.848Z"
     },
     {
       "id": "havenstreet-rail",
@@ -1662,12 +1662,12 @@
       "matchTerms": [
         "havenstreet"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCijrngTzgjHdgeAQfJxNKqA",
       "broadcaster": "Isle of Wight",
       "lastCheckedAt": "2026-09-08T22:12:56.439Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.528Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.981Z"
     },
     {
       "id": "blue-anchor-rail",
@@ -1693,12 +1693,12 @@
         "blue",
         "anchor"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCna41A0RgP21a0OZxpySyQg",
       "broadcaster": "RailcamLive - WSR",
       "lastCheckedAt": "2026-09-08T22:12:56.506Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.528Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.981Z"
     },
     {
       "id": "tokyo-shinjuku-rail",
@@ -1724,12 +1724,12 @@
         "shinjuku",
         "jr"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC1kDVgEX2DsE295Bkum_K9Q",
       "broadcaster": "【LIVE】東京 新宿 鉄道 ライブ Tokyo Shinjuku Live Ch",
       "lastCheckedAt": "2026-09-08T22:12:56.427Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.528Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.981Z"
     },
     {
       "id": "olympia-rail",
@@ -1754,12 +1754,12 @@
       "matchTerms": [
         "olympia"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJId-kbfsO5K4kU9cKE_TqA",
       "broadcaster": "Steel Highway Railcams",
       "lastCheckedAt": "2026-09-08T22:12:56.447Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.528Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.982Z"
     },
     {
       "id": "fort-madison-rail",
@@ -1785,12 +1785,12 @@
         "fort",
         "madison"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCOIkT9bq-1N2BvrsBjhNlag",
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:56.363Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.528Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.982Z"
     },
     {
       "id": "helsinki-port",
@@ -1816,12 +1816,12 @@
         "west",
         "south"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCuaFFNhZkcEg2JjEPvzjzzw",
       "broadcaster": "Port of Helsinki",
       "lastCheckedAt": "2026-09-08T22:12:56.500Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:55.529Z"
+      "lastAttemptAt": "2026-09-08T22:23:58.982Z"
     },
     {
       "id": "dublin-port",
@@ -1847,12 +1847,12 @@
         "dublin",
         "bay"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCeGyo_v1ppwH-e77CVqLSJg",
       "broadcaster": "Dublin Port",
       "lastCheckedAt": "2026-09-08T22:12:57.299Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.506Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "friday-harbor",
@@ -1878,12 +1878,12 @@
         "friday",
         "harbor"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCwYQ0fEcfhpVdmzVF2jr2gA",
       "broadcaster": "Port of Friday Harbor",
       "lastCheckedAt": "2026-09-08T22:12:57.157Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.506Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "geiranger-fjord",
@@ -1908,12 +1908,12 @@
       "matchTerms": [
         "geiranger"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCbYNIUYxdzeQTKdb9GfJl3w",
       "broadcaster": "Geirangerfjord cruise port",
       "lastCheckedAt": "2026-09-08T22:12:57.217Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.507Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "nuuk-port",
@@ -1938,12 +1938,12 @@
       "matchTerms": [
         "nuuk"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCBphd_LM6r0zFFVF4JBCL8w",
       "broadcaster": "Sikuki",
       "lastCheckedAt": "2026-09-08T22:12:57.223Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.507Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "newcastle-port",
@@ -1968,12 +1968,12 @@
       "matchTerms": [
         "newcastle"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCTGhjtFloAPlbLy4_yrkoWg",
       "broadcaster": "Port of Newcastle",
       "lastCheckedAt": "2026-09-08T22:12:57.206Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.507Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "rotterdam-port",
@@ -1998,12 +1998,12 @@
       "matchTerms": [
         "amazonehaven"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCv0wG9OEynMBWnoH1url0ig",
       "broadcaster": "Port of Rotterdam",
       "lastCheckedAt": "2026-09-08T22:12:57.293Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:56.507Z"
+      "lastAttemptAt": "2026-09-08T22:24:00.106Z"
     },
     {
       "id": "duluth-canal",
@@ -2029,12 +2029,12 @@
         "duluth",
         "canal"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCzkaQrI9-nSv373EvK5p0SQ",
       "broadcaster": "Duluth Harbor Cam",
       "lastCheckedAt": "2026-09-08T22:12:58.092Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.299Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.242Z"
     },
     {
       "id": "lanzarote-airport",
@@ -2059,12 +2059,12 @@
       "matchTerms": [
         "lanzarote"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCUaLy1_4rsLo4HyCLCPlD4g",
       "broadcaster": "LanzaroteWebcam",
       "lastCheckedAt": "2026-09-08T22:12:58.012Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.300Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.243Z"
     },
     {
       "id": "haneda-airport",
@@ -2089,12 +2089,12 @@
       "matchTerms": [
         "haneda"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCJD2Br_xC-3vY4nkJ9YPYDA",
       "broadcaster": "Nippon Television News Japan",
       "lastCheckedAt": "2026-09-08T22:12:57.915Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.300Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.243Z"
     },
     {
       "id": "taoyuan-airport",
@@ -2119,12 +2119,12 @@
       "matchTerms": [
         "airport"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCARB8y6PuoOBjZXJKIG-LDw",
       "broadcaster": "遊桃園 Taoyuan Travel",
       "lastCheckedAt": "2026-09-08T22:12:57.978Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.300Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.243Z"
     },
     {
       "id": "maho-airport",
@@ -2150,12 +2150,12 @@
         "sxm",
         "airport"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCcGI_kXwKl_QhyW9jK_8gIA",
       "broadcaster": "Flightradar24",
       "lastCheckedAt": "2026-09-08T22:12:57.855Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.300Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.243Z"
     },
     {
       "id": "aruba-eagle-beach",
@@ -2181,12 +2181,12 @@
         "eagle",
         "beach"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCRjMuOBDCfSsCNIe2p0_tdg",
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:57.905Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:57.300Z"
+      "lastAttemptAt": "2026-09-08T22:24:01.243Z"
     },
     {
       "id": "curacao-mambo-beach",
@@ -2211,12 +2211,12 @@
       "matchTerms": [
         "mambo"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCRjMuOBDCfSsCNIe2p0_tdg",
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:58.686Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.093Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.210Z"
     },
     {
       "id": "bvi-white-bay",
@@ -2242,12 +2242,12 @@
         "white",
         "bay"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC-CrxJnHPaM4tm2haTibUZA",
       "broadcaster": "Soggy Dollar",
       "lastCheckedAt": "2026-09-08T22:12:58.696Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.093Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.210Z"
     },
     {
       "id": "anguilla-sandy-ground",
@@ -2273,12 +2273,12 @@
         "sandy",
         "ground"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCgEQLYeJz2EZNQ9jWzNxfng",
       "broadcaster": "Caribbean Webcams",
       "lastCheckedAt": "2026-09-08T22:12:58.766Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.093Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.211Z"
     },
     {
       "id": "hollywood-beach",
@@ -2304,12 +2304,12 @@
         "hollywood",
         "beach"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCVtTjaaajzCaWsMxHBmTIsA",
       "broadcaster": "City of Hollywood",
       "lastCheckedAt": "2026-09-08T22:12:58.726Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.093Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.211Z"
     },
     {
       "id": "siesta-key",
@@ -2334,12 +2334,12 @@
       "matchTerms": [
         "siesta"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCgPDwePWls1uuZx0109bWzg",
       "broadcaster": "SIESTA BEACH LIVE",
       "lastCheckedAt": "2026-09-08T22:12:58.761Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.093Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.211Z"
     },
     {
       "id": "la-venice-beach",
@@ -2365,12 +2365,12 @@
         "venice",
         "beach"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCegzBUd6-PYoO_v7gjJgufg",
       "broadcaster": "Teleport.camera",
       "lastCheckedAt": "2026-09-08T22:12:58.677Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.094Z"
+      "lastAttemptAt": "2026-09-08T22:24:02.211Z"
     },
     {
       "id": "levi-ski",
@@ -2396,12 +2396,12 @@
         "zero",
         "levi"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC1HDQ1Q5nVHYF8e7dL4E-pw",
       "broadcaster": "Levi Ski Resort",
       "lastCheckedAt": "2026-09-08T22:12:59.459Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.767Z"
+      "lastAttemptAt": "2026-09-08T22:24:03.106Z"
     },
     {
       "id": "kilauea-volcano",
@@ -2426,12 +2426,12 @@
       "matchTerms": [
         "v3cam"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCeXH8GZyV3sVqAr45AvupOA",
       "broadcaster": "USGS",
       "lastCheckedAt": "2026-09-08T22:12:59.332Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.767Z"
+      "lastAttemptAt": "2026-09-08T22:24:03.106Z"
     },
     {
       "id": "mayon-volcano",
@@ -2456,12 +2456,12 @@
       "matchTerms": [
         "mayon"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCaG0IHN1RMOZ4-U3wDXAkwA",
       "broadcaster": "afarTV",
       "lastCheckedAt": "2026-09-08T22:12:59.461Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.767Z"
+      "lastAttemptAt": "2026-09-08T22:24:03.106Z"
     },
     {
       "id": "fairbanks-aurora",
@@ -2486,12 +2486,12 @@
       "matchTerms": [
         "fairbanks"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UCUtGnX65osNPQ98Y3-SSgpg",
       "broadcaster": "Explore Northern Lights & Nature Meditation Cams",
       "lastCheckedAt": "2026-09-08T22:12:59.539Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.767Z"
+      "lastAttemptAt": "2026-09-08T22:24:03.106Z"
     },
     {
       "id": "kilpisjarvi-aurora",
@@ -2516,19 +2516,19 @@
       "matchTerms": [
         "kilpis"
       ],
-      "status": "live",
+      "status": "unknown",
       "channelId": "UC-whuqv4HIi1O9hh9CHpPJg",
       "broadcaster": "Starlapland / Samuli Korvanen",
       "lastCheckedAt": "2026-09-08T22:12:59.385Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-08T22:12:58.768Z"
+      "lastAttemptAt": "2026-09-08T22:24:03.106Z"
     }
   ],
   "lastUpdatedAt": "2026-09-08T22:12:48.250Z",
-  "lastAttemptAt": "2026-09-08T22:12:48.250Z",
+  "lastAttemptAt": "2026-09-08T22:23:48.992Z",
   "nextUpdateAt": "2026-09-09T18:17:00.000Z",
   "updating": false,
   "progress": 0,
-  "failedChecks": 1,
+  "failedChecks": 83,
   "persistence": true
 }
