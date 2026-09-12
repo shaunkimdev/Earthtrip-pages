@@ -28,7 +28,7 @@
       "matchTerms": [
         "한강"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.249Z"
+      "lastAttemptAt": "2026-09-12T20:31:23.935Z"
     },
     {
       "id": "busan-haeundae",
@@ -58,7 +58,7 @@
       "matchTerms": [
         "haeundae"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.307Z"
+      "lastAttemptAt": "2026-09-12T20:31:24.337Z"
     },
     {
       "id": "busan-songjeong",
@@ -88,7 +88,7 @@
       "matchTerms": [
         "송정"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.308Z"
+      "lastAttemptAt": "2026-09-12T20:31:24.338Z"
     },
     {
       "id": "jeju-beaches",
@@ -118,7 +118,7 @@
       "matchTerms": [
         "제주"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.309Z"
+      "lastAttemptAt": "2026-09-12T20:31:24.339Z"
     },
     {
       "id": "bali-jimbaran",
@@ -148,7 +148,7 @@
       "matchTerms": [
         "jimbaran"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.310Z"
+      "lastAttemptAt": "2026-09-12T20:31:24.340Z"
     },
     {
       "id": "hawaii-waikiki",
@@ -178,7 +178,7 @@
       "matchTerms": [
         "waikiki"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:55.311Z"
+      "lastAttemptAt": "2026-09-12T20:31:24.341Z"
     },
     {
       "id": "hawaii-pipeline",
@@ -208,7 +208,7 @@
       "matchTerms": [
         "pipeline"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.160Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.341Z"
     },
     {
       "id": "samui-crystal-bay",
@@ -239,7 +239,7 @@
         "crystal",
         "bay"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.161Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.342Z"
     },
     {
       "id": "venice-san-marco",
@@ -270,7 +270,7 @@
         "san",
         "marco"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.161Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.342Z"
     },
     {
       "id": "sydney-harbour",
@@ -301,7 +301,7 @@
         "sydney",
         "harbour"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.162Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.343Z"
     },
     {
       "id": "cape-town-muizenberg",
@@ -331,7 +331,7 @@
       "matchTerms": [
         "muizenberg"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.162Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.343Z"
     },
     {
       "id": "rio-copacabana",
@@ -361,7 +361,7 @@
       "matchTerms": [
         "copacabana"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:56.162Z"
+      "lastAttemptAt": "2026-09-12T20:31:25.343Z"
     },
     {
       "id": "lucerne",
@@ -391,7 +391,7 @@
       "matchTerms": [
         "lucerne"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:57.153Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.268Z"
     },
     {
       "id": "kamakura-shichirigahama",
@@ -421,7 +421,7 @@
       "matchTerms": [
         "七里ヶ浜"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:57.153Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.269Z"
     },
     {
       "id": "banff-spray-valley",
@@ -452,7 +452,7 @@
         "spray",
         "valley"
       ],
-      "lastAttemptAt": "2026-09-11T20:55:57.153Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.269Z"
     },
     {
       "id": "dublin-temple-bar",
@@ -482,7 +482,7 @@
       "broadcaster": "EarthCam",
       "lastCheckedAt": "2026-09-08T22:12:50.862Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.153Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.269Z"
     },
     {
       "id": "london-abbey-road",
@@ -513,7 +513,7 @@
       "broadcaster": "EarthCam",
       "lastCheckedAt": "2026-09-08T22:12:50.819Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.153Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.269Z"
     },
     {
       "id": "venice-guglie",
@@ -543,7 +543,7 @@
       "broadcaster": "I Love You Venice",
       "lastCheckedAt": "2026-09-08T22:12:50.727Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.154Z"
+      "lastAttemptAt": "2026-09-12T20:31:26.269Z"
     },
     {
       "id": "venice-dorsoduro",
@@ -573,7 +573,7 @@
       "broadcaster": "I Love You Venice",
       "lastCheckedAt": "2026-09-08T22:12:51.492Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "amsterdam-dam",
@@ -604,7 +604,7 @@
       "broadcaster": "Now4Rent",
       "lastCheckedAt": "2026-09-08T22:12:51.477Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "rovaniemi-santa",
@@ -635,7 +635,7 @@
       "broadcaster": "City of Rovaniemi",
       "lastCheckedAt": "2026-09-08T22:12:51.485Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "taipei-xiangshan",
@@ -665,7 +665,7 @@
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:51.544Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "taipei-bishan",
@@ -695,7 +695,7 @@
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:51.464Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "taoyuan-daxi",
@@ -725,7 +725,7 @@
       "broadcaster": "遊桃園 Taoyuan Travel",
       "lastCheckedAt": "2026-09-08T22:12:51.671Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:57.996Z"
+      "lastAttemptAt": "2026-09-12T20:31:27.399Z"
     },
     {
       "id": "taipei-jiantanshan",
@@ -755,7 +755,7 @@
       "broadcaster": "Taipei Travel Live Cam  台北觀光即時影像",
       "lastCheckedAt": "2026-09-08T22:12:52.369Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.393Z"
     },
     {
       "id": "tokyo-kabukicho",
@@ -785,7 +785,7 @@
       "broadcaster": "歌舞伎町 ライブ ちゃんねる『 Kabukicho Live Channel 』",
       "lastCheckedAt": "2026-09-08T22:12:52.202Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.393Z"
     },
     {
       "id": "leavenworth",
@@ -815,7 +815,7 @@
       "broadcaster": "Visit Leavenworth",
       "lastCheckedAt": "2026-09-08T22:12:52.377Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.393Z"
     },
     {
       "id": "namib-waterhole",
@@ -846,7 +846,7 @@
       "broadcaster": "NamibiaCam",
       "lastCheckedAt": "2026-09-08T22:12:52.321Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.394Z"
     },
     {
       "id": "etosha-okaukuejo",
@@ -876,7 +876,7 @@
       "broadcaster": "Namibia Wildlife Resorts",
       "lastCheckedAt": "2026-09-08T22:12:52.423Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.394Z"
     },
     {
       "id": "kenya-ol-donyo",
@@ -906,7 +906,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:52.406Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:55:58.989Z"
+      "lastAttemptAt": "2026-09-12T20:31:28.394Z"
     },
     {
       "id": "namibia-safarihoek",
@@ -936,7 +936,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.118Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "zimbabwe-linkwasha",
@@ -966,7 +966,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.154Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "botswana-camelthorn",
@@ -996,7 +996,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.049Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "namibia-onguma",
@@ -1026,7 +1026,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:52.963Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "kenya-mpala",
@@ -1056,7 +1056,7 @@
       "broadcaster": "Explore African Wildlife",
       "lastCheckedAt": "2026-09-08T22:12:52.972Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "victoria-falls-waterhole",
@@ -1087,7 +1087,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.062Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:00.210Z"
+      "lastAttemptAt": "2026-09-12T20:31:29.187Z"
     },
     {
       "id": "tembe-elephants",
@@ -1117,7 +1117,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.772Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.360Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.323Z"
     },
     {
       "id": "madikwe-tau",
@@ -1147,7 +1147,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.819Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.361Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.324Z"
     },
     {
       "id": "katmai-brooks-falls",
@@ -1178,7 +1178,7 @@
       "broadcaster": "Explore Live Nature Cams",
       "lastCheckedAt": "2026-09-08T22:12:53.705Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.361Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.324Z"
     },
     {
       "id": "amboseli-tortilis",
@@ -1208,7 +1208,7 @@
       "broadcaster": "Africam",
       "lastCheckedAt": "2026-09-08T22:12:53.753Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.361Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.324Z"
     },
     {
       "id": "big-bear-eagles",
@@ -1239,7 +1239,7 @@
       "broadcaster": "FOBBV CAM",
       "lastCheckedAt": "2026-09-08T22:12:53.960Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.361Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.324Z"
     },
     {
       "id": "long-beach-tropical-reef",
@@ -1270,7 +1270,7 @@
       "broadcaster": "Explore Live Nature Cams",
       "lastCheckedAt": "2026-09-08T22:12:53.816Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:01.361Z"
+      "lastAttemptAt": "2026-09-12T20:31:30.324Z"
     },
     {
       "id": "monterey-sharks",
@@ -1300,7 +1300,7 @@
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.650Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.375Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.443Z"
     },
     {
       "id": "monterey-kelp",
@@ -1331,7 +1331,7 @@
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.719Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.376Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.443Z"
     },
     {
       "id": "monterey-open-sea",
@@ -1362,7 +1362,7 @@
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.602Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.376Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.443Z"
     },
     {
       "id": "monterey-jellyfish",
@@ -1392,7 +1392,7 @@
       "broadcaster": "Monterey Bay Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:54.620Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.376Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.444Z"
     },
     {
       "id": "miami-coral-city",
@@ -1423,7 +1423,7 @@
       "broadcaster": "Coral Morphologic",
       "lastCheckedAt": "2026-09-08T22:12:54.641Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.376Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.444Z"
     },
     {
       "id": "curacao-underwater",
@@ -1453,7 +1453,7 @@
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:54.593Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:02.376Z"
+      "lastAttemptAt": "2026-09-12T20:31:31.444Z"
     },
     {
       "id": "vancouver-otters",
@@ -1484,7 +1484,7 @@
       "broadcaster": "Vancouver Aquarium",
       "lastCheckedAt": "2026-09-08T22:12:55.405Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.438Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "honduras-utopia-reef",
@@ -1515,7 +1515,7 @@
       "broadcaster": "Explore Oceans",
       "lastCheckedAt": "2026-09-08T22:12:55.474Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "flagstaff-rail",
@@ -1545,7 +1545,7 @@
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.524Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "laplata-rail",
@@ -1576,7 +1576,7 @@
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.472Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "prague-rail",
@@ -1607,7 +1607,7 @@
       "broadcaster": "SlowTV",
       "lastCheckedAt": "2026-09-08T22:12:55.515Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "revelstoke-rail",
@@ -1637,7 +1637,7 @@
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:55.527Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:03.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:32.426Z"
     },
     {
       "id": "havenstreet-rail",
@@ -1667,7 +1667,7 @@
       "broadcaster": "Isle of Wight",
       "lastCheckedAt": "2026-09-08T22:12:56.439Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.291Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "blue-anchor-rail",
@@ -1698,7 +1698,7 @@
       "broadcaster": "RailcamLive - WSR",
       "lastCheckedAt": "2026-09-08T22:12:56.506Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.291Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "tokyo-shinjuku-rail",
@@ -1729,7 +1729,7 @@
       "broadcaster": "【LIVE】東京 新宿 鉄道 ライブ Tokyo Shinjuku Live Ch",
       "lastCheckedAt": "2026-09-08T22:12:56.427Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.292Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "olympia-rail",
@@ -1759,7 +1759,7 @@
       "broadcaster": "Steel Highway Railcams",
       "lastCheckedAt": "2026-09-08T22:12:56.447Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.292Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "fort-madison-rail",
@@ -1790,7 +1790,7 @@
       "broadcaster": "Virtual Railfan",
       "lastCheckedAt": "2026-09-08T22:12:56.363Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.292Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "helsinki-port",
@@ -1821,7 +1821,7 @@
       "broadcaster": "Port of Helsinki",
       "lastCheckedAt": "2026-09-08T22:12:56.500Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:04.292Z"
+      "lastAttemptAt": "2026-09-12T20:31:33.489Z"
     },
     {
       "id": "dublin-port",
@@ -1852,7 +1852,7 @@
       "broadcaster": "Dublin Port",
       "lastCheckedAt": "2026-09-08T22:12:57.299Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.201Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.648Z"
     },
     {
       "id": "friday-harbor",
@@ -1883,7 +1883,7 @@
       "broadcaster": "Port of Friday Harbor",
       "lastCheckedAt": "2026-09-08T22:12:57.157Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.201Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.648Z"
     },
     {
       "id": "geiranger-fjord",
@@ -1913,7 +1913,7 @@
       "broadcaster": "Geirangerfjord cruise port",
       "lastCheckedAt": "2026-09-08T22:12:57.217Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.201Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.649Z"
     },
     {
       "id": "nuuk-port",
@@ -1943,7 +1943,7 @@
       "broadcaster": "Sikuki",
       "lastCheckedAt": "2026-09-08T22:12:57.223Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.201Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.649Z"
     },
     {
       "id": "newcastle-port",
@@ -1973,7 +1973,7 @@
       "broadcaster": "Port of Newcastle",
       "lastCheckedAt": "2026-09-08T22:12:57.206Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.202Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.649Z"
     },
     {
       "id": "rotterdam-port",
@@ -2003,7 +2003,7 @@
       "broadcaster": "Port of Rotterdam",
       "lastCheckedAt": "2026-09-08T22:12:57.293Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:05.202Z"
+      "lastAttemptAt": "2026-09-12T20:31:34.649Z"
     },
     {
       "id": "duluth-canal",
@@ -2034,7 +2034,7 @@
       "broadcaster": "Duluth Harbor Cam",
       "lastCheckedAt": "2026-09-08T22:12:58.092Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "lanzarote-airport",
@@ -2064,7 +2064,7 @@
       "broadcaster": "LanzaroteWebcam",
       "lastCheckedAt": "2026-09-08T22:12:58.012Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "haneda-airport",
@@ -2094,7 +2094,7 @@
       "broadcaster": "Nippon Television News Japan",
       "lastCheckedAt": "2026-09-08T22:12:57.915Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "taoyuan-airport",
@@ -2124,7 +2124,7 @@
       "broadcaster": "遊桃園 Taoyuan Travel",
       "lastCheckedAt": "2026-09-08T22:12:57.978Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "maho-airport",
@@ -2155,7 +2155,7 @@
       "broadcaster": "Flightradar24",
       "lastCheckedAt": "2026-09-08T22:12:57.855Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "aruba-eagle-beach",
@@ -2186,7 +2186,7 @@
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:57.905Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:06.439Z"
+      "lastAttemptAt": "2026-09-12T20:31:35.650Z"
     },
     {
       "id": "curacao-mambo-beach",
@@ -2216,7 +2216,7 @@
       "broadcaster": "SHOWME Caribbean",
       "lastCheckedAt": "2026-09-08T22:12:58.686Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "bvi-white-bay",
@@ -2247,7 +2247,7 @@
       "broadcaster": "Soggy Dollar",
       "lastCheckedAt": "2026-09-08T22:12:58.696Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "anguilla-sandy-ground",
@@ -2278,7 +2278,7 @@
       "broadcaster": "Caribbean Webcams",
       "lastCheckedAt": "2026-09-08T22:12:58.766Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "hollywood-beach",
@@ -2309,7 +2309,7 @@
       "broadcaster": "City of Hollywood",
       "lastCheckedAt": "2026-09-08T22:12:58.726Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "siesta-key",
@@ -2339,7 +2339,7 @@
       "broadcaster": "SIESTA BEACH LIVE",
       "lastCheckedAt": "2026-09-08T22:12:58.761Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "la-venice-beach",
@@ -2370,7 +2370,7 @@
       "broadcaster": "Teleport.camera",
       "lastCheckedAt": "2026-09-08T22:12:58.677Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:07.374Z"
+      "lastAttemptAt": "2026-09-12T20:31:36.769Z"
     },
     {
       "id": "levi-ski",
@@ -2401,7 +2401,7 @@
       "broadcaster": "Levi Ski Resort",
       "lastCheckedAt": "2026-09-08T22:12:59.459Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:08.335Z"
+      "lastAttemptAt": "2026-09-12T20:31:37.627Z"
     },
     {
       "id": "kilauea-volcano",
@@ -2431,7 +2431,7 @@
       "broadcaster": "USGS",
       "lastCheckedAt": "2026-09-08T22:12:59.332Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:08.335Z"
+      "lastAttemptAt": "2026-09-12T20:31:37.627Z"
     },
     {
       "id": "mayon-volcano",
@@ -2461,7 +2461,7 @@
       "broadcaster": "afarTV",
       "lastCheckedAt": "2026-09-08T22:12:59.461Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:08.335Z"
+      "lastAttemptAt": "2026-09-12T20:31:37.627Z"
     },
     {
       "id": "fairbanks-aurora",
@@ -2491,7 +2491,7 @@
       "broadcaster": "Explore Northern Lights & Nature Meditation Cams",
       "lastCheckedAt": "2026-09-08T22:12:59.539Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:08.335Z"
+      "lastAttemptAt": "2026-09-12T20:31:37.627Z"
     },
     {
       "id": "kilpisjarvi-aurora",
@@ -2521,12 +2521,12 @@
       "broadcaster": "Starlapland / Samuli Korvanen",
       "lastCheckedAt": "2026-09-08T22:12:59.385Z",
       "verifiedAt": "2026-09-08",
-      "lastAttemptAt": "2026-09-11T20:56:08.335Z"
+      "lastAttemptAt": "2026-09-12T20:31:37.627Z"
     }
   ],
   "lastUpdatedAt": "2026-09-08T22:12:48.250Z",
-  "lastAttemptAt": "2026-09-11T20:55:55.249Z",
-  "nextUpdateAt": "2026-09-12T18:17:00.000Z",
+  "lastAttemptAt": "2026-09-12T20:31:23.934Z",
+  "nextUpdateAt": "2026-09-13T18:17:00.000Z",
   "updating": false,
   "progress": 0,
   "failedChecks": 83,
